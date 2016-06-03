@@ -1,0 +1,6 @@
+framework module Pods_swiftImgur_CustomGallery {
+  umbrella header "Pods-swiftImgur_CustomGallery-umbrella.h"
+
+  export *
+  module * { export * }
+}
